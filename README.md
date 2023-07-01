@@ -7,15 +7,13 @@ data directory.
 ---
 
 ## Model Results 
-Our model aimed to predict heart disease from 14 different predictors, specifically
-- 
+Our model aimed to predict heart disease from 13 different predictors, specifically
+- Age, Sex, Chest Pain, BP, Cholesterol, FBS over 120, EKG Result, Max HR, Excercise angina, ST depression, Slope of ST, Number of vessels seen on flouroscopy, Thallium
 
 ## Understanding feature impact on outcome
-![Screenshot 2023-07-01 at 10 36 36 AM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/a821e3ab-c1eb-4d74-a08f-53fc19728ad5)
-We can see that 
-
-
 ![Screenshot 2023-07-01 at 10 38 22 AM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/d407ec51-3754-415f-b537-b496fa831c6d)
+
+We can see that 
 
 ![Screenshot 2023-07-01 at 10 40 33 AM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/1a71cdf8-f454-464b-b16c-7c9a2073adae)
 
