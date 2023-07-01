@@ -18,7 +18,14 @@ Our modeling task is a binary classification that aims to predict the presence o
 
 ![Screenshot 2023-07-01 at 3 51 13 PM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/47e068a6-f5fd-41fc-a7ad-aaae0c96b104)
 
+
+We can see that the missclassification rate was relatively low on this modeling task. 
+
+
 ![Screenshot 2023-07-01 at 3 51 58 PM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/cc36cd96-a140-4705-bcf2-5aaa1cc9fc39)
+
+
+Overall the ROC curve is excellent (0.91)
 
 
 ## Understanding feature impact on outcome
