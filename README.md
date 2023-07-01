@@ -33,5 +33,10 @@ Overall the ROC curve is excellent (0.91)
 
 Feature importance is one of the most important things to pay attention to especially in medical machine learning problems where the reason for the outcome is often more important than a high performing model. Here we can see some of the most important health factors to predicting whether or not someone will have heart disease in this data set.
 
+## Running the Project 
+If you are looking to experiment with AutoML for the first time I would recommend going to Azure ML studio and playing around with the UI. It is fairly intuitive, very fast and provides great visualizations without writing a lien of code. If you are interested in the models themselves another great feature about Azure ML studio is that it auto generates the code to train and test the model. You can find the associated notebook in the notebooks directory and the script is in the home directory labelled main.py. 
+
+
+
 
 
