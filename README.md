@@ -17,11 +17,7 @@ The data can be found in this repository under the data directory. Feel free to 
 Our modeling task is a binary classification that aims to predict the presence or absence of heart disease. Overall the Azure ML Studio did a great job. I especially enjoyed the robustness of the output metrics that you can look through. You can see ROC, PR curve and calibration below. One of the great things about ML studio is that it automatically tries many different models and shows you the performance of all of them (in this case 75 different models were trained!) The best performing model for this case was a gradient boosting algorithim with a standard scaler wrapper (AUROC = 0.92, accuracy = 0.833). 
 
 
-### Understanding feature impact on outcome
+## Understanding feature impact on outcome
 ![Screenshot 2023-07-01 at 10 38 22 AM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/d407ec51-3754-415f-b537-b496fa831c6d)
+Feature importance is one of the most important things to pay attention to especially in medical machine learning problems where the reason for the outcome is often more important than a high performing model. Here we can see some of the most important health factors to predicting whether or not someone will have heart disease in this data set.
 
-
-
-
-
-![Screenshot 2023-07-01 at 10 41 42 AM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/0549ca98-d456-4f3b-8225-73597b95bc65)
