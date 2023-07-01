@@ -6,5 +6,7 @@ data directory.
 
 ---
 
+### Using Azure ML Studio
 
+![Screenshot 2023-07-01 at 10 36 36 AM](https://github.com/BrunoValan/MLOPS_AutoML/assets/110431113/a821e3ab-c1eb-4d74-a08f-53fc19728ad5)
 
