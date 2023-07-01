@@ -9,6 +9,7 @@ data directory.
 ## Data 
 Our data set comes from kaggle and can be accessed [here]([url](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)). The data comes from 270 de-identified patients. It contains various information about there health status as well as whether or not they have heart disease. Specifically, the data contained 13 different predictors including
 - Age, Sex, Chest Pain, BP, Cholesterol, FBS over 120, EKG Result, Max HR, Excercise angina, ST depression, Slope of ST, Number of vessels seen on flouroscopy, Thallium
+
 The data can be found in this repository under the data directory. Feel free to download and play around with it!
 
 
